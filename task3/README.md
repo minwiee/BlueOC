@@ -30,5 +30,7 @@ Follow the instructions below to clone and run the application locally.
 1. Open your terminal or command prompt.
 2. Run the following command to clone the repository:
 
-   ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/minwiee/BlueOC.git
+3. In your Visual Studio Code, install:
+   npm install react-redux 
+4. npm start to run
